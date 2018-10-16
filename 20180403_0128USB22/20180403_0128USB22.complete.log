@@ -1,0 +1,38 @@
+*************************
+Imager Command Line
+*************************
+ewfacquire -uC "INF8901" -E "20180403_0128USB22" -e "Alexandre Jouy" -D "Efface wiped + dossiers" -c best -N none -f encase7 /dev/sdf -S 7.9EiB -d sha1 -t /media/HDD_BLEU_3.0/20180403_0128USB22/20180403_0128USB22 -l /media/HDD_BLEU_3.0/20180403_0128USB22/20180403_0128USB22.log
+
+
+*************************
+Time
+*************************
+Start Time : Apr-04-2018 00:21:16
+End Time : Apr-04-2018 00:21:25
+
+
+
+*************************
+Source Device Info
+*************************
+
+
+
+*************************
+Imager Logs
+*************************
+MD5 hash calculated over data:		18aa43202d5493950b44c1be7e07f56e
+SHA1 hash calculated over data:		9a97645317eed8d7e2886824174119f11576a320
+
+
+
+*************************
+Verification
+*************************
+MD5 hash stored in file:		18aa43202d5493950b44c1be7e07f56e
+MD5 hash calculated over data:		18aa43202d5493950b44c1be7e07f56e
+SHA1 hash stored in file:		9a97645317eed8d7e2886824174119f11576a320
+SHA1 hash calculated over data:		9a97645317eed8d7e2886824174119f11576a320
+
+
+

@@ -1,0 +1,31 @@
+ewfacquire 20160424
+
+Device information:
+Bus type:				USB
+Vendor:					General
+Model:					UDisk
+Serial:					
+
+Storage media information:
+Type:					Device
+Media type:				Removable
+Media size:				128 MB (128974848 bytes)
+Bytes per sector:			512
+
+Acquiry started at: Jan 22, 2018 22:40:31
+This could take a while.
+
+Status: at 40.0%
+        acquired 49 MiB (51609600 bytes) of total 123 MiB (128974848 bytes)
+        completion in 5 second(s) with 13 MiB/s (14330538 bytes/second)
+
+Status: at 88.3%
+        acquired 108 MiB (113999872 bytes) of total 123 MiB (128974848 bytes)
+        completion in 1 second(s) with 13 MiB/s (14330538 bytes/second)
+
+Acquiry completed at: Jan 22, 2018 22:40:39
+
+Written: 123 MiB (128976320 bytes) in 8 second(s) with 15 MiB/s (16122040 bytes/second)
+MD5 hash calculated over data:		594166a8c7b993b42f6b7fd78a301d75
+SHA1 hash calculated over data:		b2b16def79cd2a3a8efecabe5e3098197921f76c
+ewfacquire: SUCCESS

@@ -1,0 +1,38 @@
+*************************
+Imager Command Line
+*************************
+ewfacquire -uC "INF8901" -E "20180313_0128USB17" -e "Alexandre Jouy" -D "Empty usb + failed files copy" -c best -N none -f encase7 /dev/sdd -S 7.9EiB -d sha1 -t /media/HDD_BLEU_3.0/20180313_0128USB17/20180313_0128USB17 -l /media/HDD_BLEU_3.0/20180313_0128USB17/20180313_0128USB17.log
+
+
+*************************
+Time
+*************************
+Start Time : Mar-14-2018 00:14:01
+End Time : Mar-14-2018 00:14:10
+
+
+
+*************************
+Source Device Info
+*************************
+
+
+
+*************************
+Imager Logs
+*************************
+MD5 hash calculated over data:		2fe2d4e91c7c300c959562c48e04c7d4
+SHA1 hash calculated over data:		6adda10734edfb40e187d95d0ccc37eba9f63aee
+
+
+
+*************************
+Verification
+*************************
+MD5 hash stored in file:		2fe2d4e91c7c300c959562c48e04c7d4
+MD5 hash calculated over data:		2fe2d4e91c7c300c959562c48e04c7d4
+SHA1 hash stored in file:		6adda10734edfb40e187d95d0ccc37eba9f63aee
+SHA1 hash calculated over data:		6adda10734edfb40e187d95d0ccc37eba9f63aee
+
+
+

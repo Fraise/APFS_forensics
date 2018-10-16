@@ -1,0 +1,46 @@
+ewfacquire 20160424
+
+Device information:
+Bus type:				USB
+Vendor:					General
+Model:					UDisk
+Serial:					
+
+Storage media information:
+Type:					Device
+Media type:				Removable
+Media size:				130 MB (130023424 bytes)
+Bytes per sector:			512
+
+Acquiry started at: Mar 14, 2018 00:14:01
+This could take a while.
+
+Status: at 20.1%
+        acquired 24 MiB (26148864 bytes) of total 124 MiB (130023424 bytes)
+        completion in 15 second(s) with 6.5 MiB/s (6843338 bytes/second)
+
+Status: at 39.7%
+        acquired 49 MiB (51740672 bytes) of total 124 MiB (130023424 bytes)
+        completion in 12 second(s) with 6.2 MiB/s (6501171 bytes/second)
+
+Acquiry completed at: Mar 14, 2018 00:14:10
+
+Written: 124 MiB (130024896 bytes) in 9 second(s) with 13 MiB/s (14447210 bytes/second)
+MD5 hash calculated over data:		2fe2d4e91c7c300c959562c48e04c7d4
+SHA1 hash calculated over data:		6adda10734edfb40e187d95d0ccc37eba9f63aee
+ewfacquire: SUCCESS
+ewfverify 20160424
+
+Verify started at: Mar 14, 2018 00:14:10
+This could take a while.
+
+Verify completed at: Mar 14, 2018 00:14:10
+
+Read: 124 MiB (130023424 bytes) in 0 second(s)
+
+MD5 hash stored in file:		2fe2d4e91c7c300c959562c48e04c7d4
+MD5 hash calculated over data:		2fe2d4e91c7c300c959562c48e04c7d4
+SHA1 hash stored in file:		6adda10734edfb40e187d95d0ccc37eba9f63aee
+SHA1 hash calculated over data:		6adda10734edfb40e187d95d0ccc37eba9f63aee
+
+ewfverify: SUCCESS

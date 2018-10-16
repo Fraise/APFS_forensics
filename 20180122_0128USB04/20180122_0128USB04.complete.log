@@ -1,0 +1,38 @@
+*************************
+Imager Command Line
+*************************
+ewfacquire -uC "INF8901" -E "20180122_0128USB04" -e "Alexandre Jouy" -D "+X+Y+W-Y" -c best -N none -f encase7 /dev/sdf -S 7.9EiB -d sha1 -t /media/HDD_BLEU_3.0/20180122_0128USB04/20180122_0128USB04 -l /media/HDD_BLEU_3.0/20180122_0128USB04/20180122_0128USB04.log
+
+
+*************************
+Time
+*************************
+Start Time : Jan-22-2018 22:53:06
+End Time : Jan-22-2018 22:53:15
+
+
+
+*************************
+Source Device Info
+*************************
+
+
+
+*************************
+Imager Logs
+*************************
+MD5 hash calculated over data:		7a68c2f42b483c24ff143f61fe0fa708
+SHA1 hash calculated over data:		f0986042c0c3c6347572f0f59f328f25349cd8ab
+
+
+
+*************************
+Verification
+*************************
+MD5 hash stored in file:		7a68c2f42b483c24ff143f61fe0fa708
+MD5 hash calculated over data:		7a68c2f42b483c24ff143f61fe0fa708
+SHA1 hash stored in file:		f0986042c0c3c6347572f0f59f328f25349cd8ab
+SHA1 hash calculated over data:		f0986042c0c3c6347572f0f59f328f25349cd8ab
+
+
+

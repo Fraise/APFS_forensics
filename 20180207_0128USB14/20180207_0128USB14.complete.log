@@ -1,0 +1,38 @@
+*************************
+Imager Command Line
+*************************
+ewfacquire -uC "INF8901" -E "20180207_0128USB14" -e "Alexandre Jouy" -D "Formattage Apple + X +Arrachage" -c best -N none -f encase7 /dev/sdd -S 7.9EiB -d sha1 -t /media/HDD_BLEU_3.0/20180207_0128USB14/20180207_0128USB14 -l /media/HDD_BLEU_3.0/20180207_0128USB14/20180207_0128USB14.log
+
+
+*************************
+Time
+*************************
+Start Time : Feb-08-2018 04:34:54
+End Time : Feb-08-2018 04:35:03
+
+
+
+*************************
+Source Device Info
+*************************
+
+
+
+*************************
+Imager Logs
+*************************
+MD5 hash calculated over data:		2c836db051d115ceb7055db9d8337021
+SHA1 hash calculated over data:		ffacb4b4e9e0019d821a596d33fc888e8d71ebb2
+
+
+
+*************************
+Verification
+*************************
+MD5 hash stored in file:		2c836db051d115ceb7055db9d8337021
+MD5 hash calculated over data:		2c836db051d115ceb7055db9d8337021
+SHA1 hash stored in file:		ffacb4b4e9e0019d821a596d33fc888e8d71ebb2
+SHA1 hash calculated over data:		ffacb4b4e9e0019d821a596d33fc888e8d71ebb2
+
+
+
